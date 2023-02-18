@@ -1,2 +1,2 @@
 # jaipursareeshop
-Jaipur Saree Online saree Shop
+Jaipur Online saree Shop
